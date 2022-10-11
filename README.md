@@ -38,7 +38,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### What I learned
 
 ```html
-<h1>Some HTML code I'm proud of</h1>
+<h1>This one was pretty easy xD</h1>
 ```
 ```css
 .proud-of-this-css {
