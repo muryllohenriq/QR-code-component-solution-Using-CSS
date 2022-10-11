@@ -56,7 +56,7 @@ Tenho que melhorar a forma como centralizo e trabalho com as divs.
 
 ### Useful resources
 
-- [Resource 1](https://www.markdownguide.org) - Isso me ajudou com este read-me.
+- [Resource 1](https://www.markdownguide.org) - Esse artigo me ajudou muito com o read-me.
 
 ## Author
 
